@@ -1,0 +1,66 @@
+[
+    {
+        "firstName" : "Lionel",
+        "lastName" : "Messi",
+        "dateOfBirth" : "24/06/1987",
+        "country" : "Argentina",
+        "club" : "Paris Saint-Germain FC"
+    },
+
+    {
+        "firstName" : "David",
+        "lastName" : "Beckham",
+        "dateOfBirth" : "02/05/1975",
+        "country" : "England",
+        "club" : "Retired"
+        
+    },
+
+    {
+        "firstName" : "Zlatan",
+        "lastName" : "Ibrahimović",
+        "dateOfBirth" : "03/10/1981",
+        "country" : "Sweden",
+        "club" : "AC Milan"
+    },
+
+    {
+        "firstName" : "Ronaldinho",
+        "lastName" : "Gaúcho",
+        "dateOfBirth" : "21/03/1980",
+        "country" : "Brazil",
+        "club" : "Retired"
+    },
+
+    {
+        "firstName" : "Cristiona",
+        "lastName" : "Ronaldo",
+        "dateOfBirth" : "05/02/1985",
+        "country" : "Portugal",
+        "club" : "Manchester United FC"
+    },
+
+    {
+        "firstName" : "Mohamed",
+        "lastName" : "Salah",
+        "dateOfBirth" : "15/06/1992",
+        "country" : "Egypt",
+        "club" : "Liverpool FC"
+    },
+
+    {
+        "firstName" : "Kylian",
+        "lastName" : "Mbappé",
+        "dateOfBirth" : "20/12/1998",
+        "country" : "France",
+        "club" : "Paris Saint-Germain FC"
+    },
+
+    {
+        "firstName" : "Luka",
+        "lastName" : "Modrić",
+        "dateOfBirth" : "09/09/1985",
+        "country" : "Croatia",
+        "club" : " Real Madrid CF"
+    }
+]
